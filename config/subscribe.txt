@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-
+http://tvapi.zztv.cc/api/zip/txtzztv/202511061613/kds_all_common_7f328e6e9ea551266ed029c4c27e7fdd.txt
 
 
 [WHITELIST]
