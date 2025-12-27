@@ -25,6 +25,7 @@ CCTV-1,kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=0&id=cctv1hd&pwd=jsdecode@@
 CCTV-1,kdsvod://http://v.91kds.com/c7/sxy.m3u8?id=cctv1&pwd=jsdecode
 CCTV-1,rtmp://play.kankanlive.com/live/1698234869325962
 CCTV-1,kdsvod://http://v.91kds.com/c7/cctvxw.m3u8?bt=2&id=cctv1hd&pwd=jsdecode
+CCTV-1,http://fjwysdb.chinashadt.com:2036/live/3.stream/playlist.m3u8
 CCTV-1,kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=hnldtv&id=8&pwd=jsdecode@@User-Agent=Mozilla@@
 CCTV-1,http://media.hndyjyfw.gov.cn/live/jz-cctv-1/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
 CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
@@ -397,6 +398,7 @@ CCTV-9,kdsvod://http://v.91kds.com/b7/jsbtv1.m3u8?id=cctv9hd&pwd=jsdecode
 CCTV-9,kdsvod://http://v.91kds.com/b7/zbdq6.m3u8?id=cctv9hd&pwd=jsdecode
 CCTV-9,htmlplay://https://m.miguvideo.com/m/liveDetail/673168140?channelId=10010001005
 CCTV-9,kdsvod://http://v.91kds.com/b7/zbdq7.m3u8?id=cctv9hd&pwd=jsdecode
+CCTV-9,rtmp://play.kankanlive.com/live/1698423397390920
 CCTV-9,kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=2&id=cctv9hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
 CCTV-9,kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=1&id=cctv9hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
 CCTV-9,kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=0&id=cctv9hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
@@ -2619,6 +2621,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=9a02f9729235a8816511ba5c2028ffab&id=CE
 南京新闻综合,kdsvod://http://v.91kds.com/b7/jstv1.m3u8?id=jsnjxw&pwd=jsdecode@@Referer=https://live.jstv.com/@@
 南京新闻综合,htmlplay://https://m.miguvideo.com/m/liveDetail/838109047?channelId=10010001005
 南京新闻综合,kdsvod://http://v.91kds.com/c7/jsqx1.m3u8?id=jsnjxw&pwd=jsdecode
+南京新闻综合,https://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
 南京新闻综合,https://zjcn-live-play.jstv.com/live.m3u8/nanjing.m3u8@@Referer=https://api.chinaaudiovisual.cn/@@
 南京新闻综合,kdsvod://http://v.91kds.com/c7/jsqx.m3u8?id=jsnjxw&pwd=jsdecode
@@ -2884,6 +2887,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=9a02f9729235a8816511ba5c2028ffab&id=CE
 苏州新闻综合,rtmp://36.137.190.15:1935/live/c01
 苏州新闻综合,http://z.b.bkpcp.top/m.php?id=szxwzh
 苏州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-13.m3u8
+苏州生活资讯,rtmp://36.137.190.15:1935/live/c04
 苏州生活资讯,https://stream1.freetv.fun/su-zhou-sheng-huo-zi-xun-1.m3u8
 苏州社会经济,https://stream1.freetv.fun/su-zhou-she-hui-jing-ji-2.m3u8
 赣榆新闻综合,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
@@ -2997,6 +3001,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=9a02f9729235a8816511ba5c2028ffab&id=CE
 湖南电视剧,kdsvod://http://v.91kds.com/b7/jsbtv1.m3u8?id=hndsj&pwd=jsdecode
 湖南电视剧,kdsvod://http://v.91kds.com/b7/hntv.m3u8?id=hndsj&pwd=jsdecode
 湖南电视剧,kdsvod://hntv://484
+湖南电视剧,http://phonetx.qing.mgtv.com/live/0.0&/HNDSJMPP360.m3u8
 湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
 湖南电视剧,https://stream1.freetv.fun/hu-nan-dian-shi-ju-2.m3u8
 湖南电视剧,https://stream1.freetv.fun/hu-nan-dian-shi-ju-12.m3u8
@@ -3096,6 +3101,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=9a02f9729235a8816511ba5c2028ffab&id=CE
 南宁都市生活,https://stream1.freetv.fun/nan-zhu-du-shi-sheng-huo-3.m3u8
 南宁都市生活,https://stream1.freetv.fun/nan-zhu-du-shi-sheng-huo-2.m3u8
 南宁都市生活,https://stream1.freetv.fun/nan-zhu-du-shi-sheng-huo-1.m3u8
+宾阳综合,https://lives.myun.tv/live/54mpbn65.m3u8
 宾阳综合,rtmp://live.gxrb.com.cn/gx/binyang
 宾阳综合,http://pulls.myun.tv/live/0dkp33j5.m3u8
 灌阳新闻综合,rtmp://live.gxrb.com.cn/gx/guanyang
@@ -3742,6 +3748,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=9a02f9729235a8816511ba5c2028ffab&id=CE
 济南都市,kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?id=sdjnds&pwd=jsdecode
 济南都市,kdsvod://http://v.91kds.com/b7/sdjntv1.m3u8?id=sdjnds&pwd=jsdecode@@Referer=https://www.ijntv.cn/@User-Agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
 济南都市,kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?fmt=flv&id=sdjnds&pwd=jsdecode
+济南生活,http://dspull.ijntv.cn/ijnlive/1615.m3u8?hwSecret=2ca28f0ab3e4b9c0b2a454671c1278208491cabf00b4c5cf0c10fea58fcd17f3&hwTime=67f5203d
 济南生活,kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?id=sdjnsh&pwd=jsdecode
 济南生活,kdsvod://http://v.91kds.com/b7/sdjntv1.m3u8?id=sdjnsh&pwd=jsdecode@@Referer=https://www.ijntv.cn/@User-Agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
 济南生活,kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?fmt=flv&id=sdjnsh&pwd=jsdecode
@@ -3789,16 +3796,19 @@ CETV-4,https://migu.188766.xyz/?migutoken=9a02f9729235a8816511ba5c2028ffab&id=CE
 山西经济与科教,kdsvod://http://v.91kds.com/c7/sxy.m3u8?id=sxjj&pwd=jsdecode
 山西经济与科教,kdsvod://tide://http://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/&4j01KWX
 山西经济与科教,kdsvod://http://v.91kds.com/b7/sxtv.m3u8?id=sxjj&pwd=jsdecode@@User-Agent=Mozilla/5.0@@
+平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8
 平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd,
 怀仁综合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
 怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
+武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd#http://60.220.198.84:81/0.m3u8
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-2.m3u8
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-5.m3u8
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-1.m3u8
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-4.m3u8
+汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8
 汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
 祁县新闻综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
 襄垣电视,kdsvod://tide://https://video.xyxrmt.com/lsdream/2MAgsgb/1000/&2MAgsgb
@@ -3918,6 +3928,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=9a02f9729235a8816511ba5c2028ffab&id=CE
 吉林乡村,kdsvod://http://v.91kds.com/c7/jltv.m3u8?id=jlxc&pwd=jsdecode
 吉林乡村,http://stream12.jlntv.cn/xqpdhd/sd/live.m3u8
 吉林乡村,kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=jltv&id=356&pwd=jsdecode
+延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
 长白新闻综合,http://hplayer1.juyun.tv/camera/11347146.m3u8
 长白朝语,http://hplayer1.juyun.tv:80/camera/11344136.m3u8
 珲春新闻综合,http://tplay.mlink.tv/live/fhsy3KNU.m3u8
@@ -4046,6 +4057,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=9a02f9729235a8816511ba5c2028ffab&id=CE
 鹤岗新闻综合,http://[2409:8087:1a01:df::4060]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 七台河新闻综合,https://rmplive.hljtv.com/live/qitaihe.m3u8
 七台河新闻综合,https://masterpull.hljtv.com/live/9FZ7k2XF.m3u8
+七台河新闻综合,rtmp://masterpull.hljtv.com/live/9FZ7k2XF
 佳木斯新闻综合,https://rmplive.hljtv.com/live/jiamusi.m3u8
 佳木斯新闻综合,https://masterpull.hljtv.com/live/l9wQtsVs.m3u8
 佳木斯新闻综合,rtmp://masterpull.hljtv.com/live/l9wQtsVs
@@ -4053,6 +4065,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=9a02f9729235a8816511ba5c2028ffab&id=CE
 萝北综合,https://rmplive.hljtv.com/live/luobei.m3u8
 萝北综合,kdsvod://http://v.91kds.com/b7/inmu.m3u8?id=hljhglb1&pwd=jsdecode
 萝北综合,kdsvod://http://v.91kds.com/b7/inmu.m3u8?fmt=flv&id=hljhglb1&pwd=jsdecode
+甘南县综合,https://rmplive.hljtv.com/live/gannan.m3u8
 甘南县综合,https://masterpull.hljtv.com/live/YbFyF4Jb.m3u8
 甘南县综合,rtmp://masterpull.hljtv.com/live/YbFyF4Jb
 齐齐哈尔新闻综合,kdsvod://http://v.91kds.com/b7/hljqtv.m3u8?id=hljqtv1&pwd=jsdecode
@@ -4061,6 +4074,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=9a02f9729235a8816511ba5c2028ffab&id=CE
 齐齐哈尔新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226437
 齐齐哈尔新闻综合,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
 齐齐哈尔新闻综合,https://stream1.freetv.fun/ipv6-qi-qi-ha-er-xin-wen-zong-he-3.m3u8
+双鸭山综合,https://masterpull.hljtv.com/live/BowdCSzZ.m3u8
 双鸭山综合,rtmp://masterpull.hljtv.com/live/BowdCSzZ
 
 港澳台,#genre#
@@ -4291,6 +4305,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-5.m3u8
 中天新闻,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv009
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-3.m3u8
+中天新闻,https://tv.iill.top/litv/4gtv-4gtv009&token=793e513846294e1a2b3e7fd78bfa0ce25e8ba37d19cb6313cd73da84af8c9508
 纬来体育,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=8d6457d1b6c00daea5b90e3c3cb2fde8
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
