@@ -7543,6 +7543,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=cae985a0a8c86ae1cbe791a674689026&id=CE
 洛阳科教,https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
 洛阳科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8
 洛阳文旅,https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
+洛阳文旅,http://wshls.live.migucloud.com/live/Q081CD54_C0/playlist.m3u8
 河南都市,kdsvod://http://v.91kds.com/b7/hatv.m3u8?id=hatv2&pwd=jsdecode
 河南都市,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
 河南都市,https://migu.188766.xyz/?migutoken=5435cdb55cbb79c67893fc7ee3d4ed65&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
