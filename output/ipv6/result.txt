@@ -8111,6 +8111,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=cae985a0a8c86ae1cbe791a674689026&id=CE
 滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8?zanhd#http://live.cztv.cc:85/live/ggpd.m3u8
 滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8?zanhd
 淮南新闻综合,kdsvod://http://v.91kds.com/b7/ahqx.m3u8?id=ahhntv1&pwd=jsdecode
+淮南新闻综合,https://ahlive.ahwanyun.cn/live/8f025f302a3441f4b5a45ad4f06b42cb/hls.m3u8
 淮南新闻综合,http://stream.0554news.com/hnds1/sd/live.m3u8
 涡阳新闻综合,http://220.180.124.18:888/live/ch2.m3u8
 池州新闻综合,http://wjsp.chiznews.com:8037/live/xwzh.m3u8

@@ -16128,6 +16128,8 @@ http://live.cztv.cc:85/live/ggpd.m3u8?zanhd
 #EXTINF:-1 tvg-name="淮南新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淮南新闻综合.png" group-title="安徽频道",淮南新闻综合
 kdsvod://http://v.91kds.com/b7/ahqx.m3u8?id=ahhntv1&pwd=jsdecode
 #EXTINF:-1 tvg-name="淮南新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淮南新闻综合.png" group-title="安徽频道",淮南新闻综合
+https://ahlive.ahwanyun.cn/live/8f025f302a3441f4b5a45ad4f06b42cb/hls.m3u8
+#EXTINF:-1 tvg-name="淮南新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淮南新闻综合.png" group-title="安徽频道",淮南新闻综合
 http://stream.0554news.com/hnds1/sd/live.m3u8
 #EXTINF:-1 tvg-name="涡阳新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/涡阳新闻综合.png" group-title="安徽频道",涡阳新闻综合
 http://220.180.124.18:888/live/ch2.m3u8
