@@ -1935,6 +1935,7 @@ CETV-1,http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/cetv1/51/20240709/inde
 CETV-1,http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/cetv1/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20260301080214&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=218.28.233.106&SecurityKey=20260301080214&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bb9911f26fade34905787b9633e007ef&sv=10004&ct=android
 CETV-1,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv1/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20260302080232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=218.28.233.106&SecurityKey=20260302080232&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4aadd9b87550f701ea1bd89058db452b&sv=10004&ct=android
 CETV-1,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv1/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20260303080214&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=218.28.233.106&SecurityKey=20260303080214&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b971294d1e2f30e41e4adbf9f9e65501&sv=10004&ct=android
+CETV-1,https://t.freetv.fun/live/cetv1-2.m3u8
 CETV-2,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=cetv2&pwd=jsdecode
 CETV-2,http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
 CETV-2,rtsp://122.191.50.135/PLTV/88888888/224/3221226120/10000100000000060000000003313988_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kvRdRtVqokVkeXk3U8psVAsuTY+OgflQt4BiPWWLXbQ0ybcLSP/natFUZeRalHAgMhvmI/+aUOyzA9F/Z2JAiMB2HEYus4VibWE88qwjH9Cf/PCITiD2Rew7Db5iXv2DWrSJHU9TU9hd+Ko3BRNE5okFTbj4rCw14DRUTelHCiM=:20220106103026,1
@@ -10601,6 +10602,7 @@ CCTV-15,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/20200324/cctv15hd/51/
 西游记,https://live.ottiptv.cc/huya/26355861
 西游记,https://live.metshop.top/huya/26355861
 西游记,http://cdn.jdshipin.com:8880/huya.php?id=26355861
+西游记,https://lbds.us.ci/26355861
 三国演义,http://120.26.72.137/pub/douyu.m3u8?id=12463728&action=play
 三国演义,https://live.iill.top/huya/11602081
 三国演义,https://live.metshop.top/huya/11602081
