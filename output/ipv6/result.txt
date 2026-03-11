@@ -226,6 +226,7 @@ CCTV-2,http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/cctv2hd265/54/20200407
 CCTV-2,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cctv2hd265/54/20200407/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260303080203&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=218.28.233.106&SecurityKey=20260303080203&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c887a4d1ba24c769c12e200fa12dec49&sv=10004&ct=android
 CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773218365&major_anchor_level=common&sign=821612d0a7b01fb226f8f39d97d19fc2&t_id=037-20260304163924497A73460AD8D5D628AF-n87Lsu
 CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773485225&major_anchor_level=common&sign=3d1a5df7eb85afad5490805a2e5f1586&t_id=037-2026030718470509DC28CF4944BE5BFF72-rNcHNp
+CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773710152&major_anchor_level=common&sign=eaee3f645da1a48db348162ff5e87ec7&t_id=037-202603100915521F6C4DEA8E577F916425-NPxEqO
 CCTV-3,kdsvod://http://v.91kds.com/b7/hbgd.m3u8?id=cctv3hd&pwd=jsdecode
 CCTV-3,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=cctv3hd&pwd=jsdecode
 CCTV-3,rtsp://122.191.50.135/PLTV/88888888/224/3221225747/10000100000000060000000002957367_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kvRdRtVqokVkeXk3U8psVAsuTY+OgflQt4BiPWWLXbQ0ybcLSP/natFUZeRalHAgMhvmI/+aUOyzA9F/Z2JAiMB2HEYus4VibWE88qwjH9Cf/PCITiD2Rew7Db5iXv2Dektd4lpiHhPSN8FWjCACu4kFTbj4rCw14DRUTelHCiM=:20220106103026,1
@@ -5451,6 +5452,7 @@ CETV-4,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 衢州新闻综合,kdsvod://http://v.91kds.com/b7/qklive.m3u8?id=zjqztv1&pwd=jsdecode
 金华新闻综合,htmlplay://https://web.guangdianyun.tv/tv/?id=3711&uin=4099
 舟山新闻综合,kdsvod://http://v.91kds.com/b7/qklive.m3u8?id=zjzstv1&pwd=jsdecode
+温州新闻综合,http://play-qk.wzrb.com.cn/live/1728463192330572.m3u8?auth_key=2044351793-fa66d1d33e3d426ca3dccb94845595d7-0-4bc36ce83dfac0c77ddd501ffe397bcc
 浙江留学,http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
 浙江民生休闲,kdsvod://http://v.91kds.com/b7/zjtv1.m3u8?id=zjtv6&pwd=jsdecode
 浙江民生休闲,kdsvod://http://v.91kds.com/b7/zjtv.m3u8?id=zjtv6&pwd=jsdecode
@@ -8792,6 +8794,7 @@ CETV-4,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 明珠台,https://mgev.188766.xyz/?migutoken=a8d24adfccdd933297e429eafaa2e208&id=hk_mzt&type=dy
 明珠台,https://mgev.188766.xyz/?migutoken=9b17f2dcf30f0e2ba850d3d6ee26e680&id=hk_mzt&type=dy
 明珠台,https://mgev.188766.xyz/?migutoken=8a9c9e44747d6ef46722c56957b8220b&id=hk_mzt&type=dy
+明珠台,https://t.freetv.fun/live/ming-zhu-7.m3u8
 凤凰中文,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=7ab7c7d787d2a25089f090027098972a
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://r.jdshipin.com/cCCzW
