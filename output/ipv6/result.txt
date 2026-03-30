@@ -6283,6 +6283,7 @@ CETV-4,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 都市剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/1/index.m3u8?fmt=ts2hls
 
 重庆频道,#genre#
+铜梁综合,https://tlpc01.cqliving.com:443/ch1.m3u8
 重庆汽摩,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=cqqm&pwd=jsdecode
 重庆汽摩,kdsvod://http://v.91kds.com/b7/jsbtv1.m3u8?id=cqqm&pwd=jsdecode
 江津新闻综合,http://jiangjinlive.cbg.cn:1935/ch1.m3u8
