@@ -1949,6 +1949,8 @@ CETV-1,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv1/51/20240709/inde
 CETV-1,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv1/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20260303080214&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=218.28.233.106&SecurityKey=20260303080214&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b971294d1e2f30e41e4adbf9f9e65501&sv=10004&ct=android
 CETV-1,https://t.freetv.fun/live/cetv1-2.m3u8
 CETV-1,https://t.freetv.fun/live/cetv1-1.m3u8
+CETV-1,https://t.freetv.fun/live/cetv1-4.m3u8
+CETV-1,https://t.freetv.fun/live/cetv1-5.m3u8
 CETV-2,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=cetv2&pwd=jsdecode
 CETV-2,http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
 CETV-2,rtsp://122.191.50.135/PLTV/88888888/224/3221226120/10000100000000060000000003313988_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kvRdRtVqokVkeXk3U8psVAsuTY+OgflQt4BiPWWLXbQ0ybcLSP/natFUZeRalHAgMhvmI/+aUOyzA9F/Z2JAiMB2HEYus4VibWE88qwjH9Cf/PCITiD2Rew7Db5iXv2DWrSJHU9TU9hd+Ko3BRNE5okFTbj4rCw14DRUTelHCiM=:20220106103026,1
@@ -7074,6 +7076,7 @@ CETV-4,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 广西新闻,https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen.m3u8
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen-1.m3u8
+广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen-2.m3u8
 广西国际,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=gxgj&pwd=jsdecode
 广西国际,kdsvod://http://v.91kds.com/b7/jsbtv1.m3u8?id=gxgj&pwd=jsdecode
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
@@ -7364,12 +7367,15 @@ CETV-4,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 福建综合,https://stream1.freetv.fun/fu-jian-zong-he-3.m3u8
 福建综合,https://stream1.freetv.fun/fu-jian-zong-he-2.m3u8
 福建公共,https://stream1.freetv.fun/fu-jian-gong-gong-4.ctv
+福建公共,https://t.freetv.fun/live/fu-jian-gong-gong-1.m3u8
+福建公共,https://t.freetv.fun/live/fu-jian-gong-gong.m3u8
 福建旅游,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=fjds&pwd=jsdecode
 福建旅游,kdsvod://http://v.91kds.com/b7/jsbtv1.m3u8?id=fjds&pwd=jsdecode
 福建旅游,kdsvod://http://v.91kds.com/b7/fjtv.m3u8?id=fjds&pwd=jsdecode
 福建旅游,https://stream1.freetv.fun/fu-jian-lu-you-6.m3u8
 福建旅游,http://stream7.fjtv.net/lypdntsc/hd/live.m3u8
 福建旅游,https://t.freetv.fun/live/fu-jian-lu-you.m3u8
+福建旅游,https://t.freetv.fun/live/fu-jian-lu-you-1.m3u8
 福建经视,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=fjjj&pwd=jsdecode
 福建经视,kdsvod://http://v.91kds.com/b7/jsbtv1.m3u8?id=fjjj&pwd=jsdecode
 福建经视,kdsvod://http://v.91kds.com/b7/fjtv.m3u8?id=fjjj&pwd=jsdecode
