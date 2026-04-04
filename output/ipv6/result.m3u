@@ -1888,6 +1888,8 @@ kdsvod://http://v.91kds.com/c7/cctvxw.m3u8?bt=2&id=cctv9hd&pwd=jsdecode
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9
 http://media.hndyjyfw.gov.cn/live/jz-cctv-9/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9
+http://play.kankanlive.com/live/1698423397390920.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9
 http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
@@ -18615,6 +18617,8 @@ https://t.freetv.fun/live/jing-tian-zi-xun-11.m3u8
 https://t.freetv.fun/live/jing-tian-zi-xun-8.m3u8
 #EXTINF:-1 tvg-name="靖天资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天资讯.png" group-title="港澳台",靖天资讯
 https://t.freetv.fun/live/jing-tian-zi-xun-9.m3u8
+#EXTINF:-1 tvg-name="靖天资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天资讯.png" group-title="港澳台",靖天资讯
+https://t.freetv.fun/live/jing-tian-zi-xun.php
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
 kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=chcjt&pwd=jsdecode
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
@@ -18937,6 +18941,8 @@ https://t.freetv.fun/live/jing-tian-xi-ju-8.m3u8
 https://t.freetv.fun/live/jing-tian-xi-ju-9.m3u8
 #EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天戏剧.png" group-title="电影频道",靖天戏剧
 https://cdn12.178.indevs.in/163189/177d541552f78003
+#EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天戏剧.png" group-title="电影频道",靖天戏剧
+https://t.freetv.fun/live/jing-tian-xi-ju-1.php
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="电影频道",经典电影
 http://goo.bkpcp.top/mg/jdxgdy
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="电影频道",经典电影
