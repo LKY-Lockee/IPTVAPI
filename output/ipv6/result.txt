@@ -1953,6 +1953,7 @@ CETV-1,https://t.freetv.fun/live/cetv1-1.m3u8
 CETV-1,https://t.freetv.fun/live/cetv1-4.m3u8
 CETV-1,https://t.freetv.fun/live/cetv1-5.m3u8
 CETV-1,https://t.freetv.fun/live/cetv1-6.m3u8
+CETV-1,https://t.freetv.fun/live/cetv1-7.m3u8
 CETV-2,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=cetv2&pwd=jsdecode
 CETV-2,http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
 CETV-2,rtsp://122.191.50.135/PLTV/88888888/224/3221226120/10000100000000060000000003313988_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kvRdRtVqokVkeXk3U8psVAsuTY+OgflQt4BiPWWLXbQ0ybcLSP/natFUZeRalHAgMhvmI/+aUOyzA9F/Z2JAiMB2HEYus4VibWE88qwjH9Cf/PCITiD2Rew7Db5iXv2DWrSJHU9TU9hd+Ko3BRNE5okFTbj4rCw14DRUTelHCiM=:20220106103026,1
@@ -9505,6 +9506,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 纬来电影,https://t.freetv.fun/live/wei-lai-dian-ying-1.php
 纬来电影,https://t.freetv.fun/live/wei-lai-dian-ying-1.m3u8
 纬来电影,https://t.freetv.fun/live/wei-lai-dian-ying.php
+纬来电影,https://t.freetv.fun/live/wei-lai-dian-ying-2.php
 靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 靖天映画,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8
