@@ -1047,6 +1047,7 @@ CCTV-10,kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=1&id=cctv10hd&pwd=jsdecode
 CCTV-10,kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=0&id=cctv10hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
 CCTV-10,kdsvod://http://v.91kds.com/c7/cctvxw.m3u8?bt=2&id=cctv10hd&pwd=jsdecode
 CCTV-10,http://media.hndyjyfw.gov.cn/live/jz-cctv-10/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+CCTV-10,http://play.kankanlive.com/live/1698423445959919.m3u8
 CCTV-10,http://z.b.bkpcp.top/m.php?id=CCTV-10科教科教
 CCTV-10,http://goo.bkpcp.top/mg/cctv10
 CCTV-10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
@@ -9420,6 +9421,7 @@ CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-9.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-2.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-3.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-4.m3u8
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-5.php
 CHC动作电影,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=chcdz&pwd=jsdecode
 CHC动作电影,rtsp://122.191.50.135/PLTV/88888888/224/3221226129/10000100000000060000000013054313_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kvRdRtVqokVkeXk3U8psVAsuTY+OgflQt4BiPWWLXbQ0ybcLSP/natFUZeRalHAgMhvmI/+aUOyzA9F/Z2JAiMB2HEYus4VibWE88qwjH9Cf/PCITiD2Rew7Db5iXv2DenrVT3sM7ntnaNfWKwmpHIkFTbj4rCw14DRUTelHCiM=:20220106103026,1
 CHC动作电影,kdsvod://http://v.91kds.com/b7/jsbtv1.m3u8?id=chcdz&pwd=jsdecode
@@ -9453,6 +9455,7 @@ CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f368602447269195
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-4.m3u8
+CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-5.php
 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 淘剧场,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8
 淘剧场,http://iptv.666230.xyz/iptv/bjyd.php/6553
