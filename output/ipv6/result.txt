@@ -8464,6 +8464,7 @@ CETV-4,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 昆明经济生活,kdsvod://http://v.91kds.com/c7/ynkmtv.m3u8?id=ynkmtv2&pwd=jsdecode
 瑞丽综合,http://channel.rlrmtzx.com/nmip-media/channellive/channel100728/playlist.m3u8
 瑞丽综合,rtmp://tv.rlrmtzx.com/channellive/ch1
+麻栗坡电视台,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
 麻栗坡电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8@@Referer=http://cloudxyapi.yntv.net/@@
 云南都市,kdsvod://http://v.91kds.com/b7/yntv.m3u8?id=yntv2&pwd=jsdecode@@Referer=https://www.yntv.cn/@@
