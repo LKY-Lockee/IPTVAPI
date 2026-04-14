@@ -1275,6 +1275,7 @@ CCTV-12,kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=cctv12&pwd=jsdecode
 CCTV-12,rtmp://play.kankanlive.com/live/1698423511884917
 CCTV-12,kdsvod://http://v.91kds.com/c7/cctvxw.m3u8?bt=2&id=cctv12hd&pwd=jsdecode
 CCTV-12,http://media.hndyjyfw.gov.cn/live/jz-cctv-12/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+CCTV-12,http://play.kankanlive.com/live/1698423511884917.m3u8
 CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
 CCTV-12,http://z.b.bkpcp.top/m.php?id=CCTV-12社会与法社会与法
 CCTV-12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
@@ -6795,6 +6796,7 @@ CETV-4,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 睢宁生活教育,http://suining-tv-replay.cm.jstv.com/suining-tv/suiningsh.m3u8
 睢宁综合,http://iptv.666230.xyz/iptv/jsyd.php/xzsnzh
 睢宁资讯,http://iptv.666230.xyz/iptv/jsyd.php/xzsnzx
+苏州文化生活,http://36.137.190.15:5021/live_hls/3/playlist.m3u8
 苏州文化生活,rtmp://36.137.190.15:1935/live/c03
 苏州文化生活,https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
 苏州文化生活,https://t.freetv.fun/live/su-zhou-wen-hua-sheng-huo.m3u8
@@ -9320,6 +9322,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-5.php
 中天新闻,https://v.iill.top/tw/4gtv-4gtv009/index.m3u8
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1.php
+中天新闻,https://v.iill.top/4gtv/4gtv-4gtv009/index.m3u8
 纬来体育,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=8d6457d1b6c00daea5b90e3c3cb2fde8
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
