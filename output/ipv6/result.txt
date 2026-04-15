@@ -1023,6 +1023,7 @@ CCTV-9,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/20200324/cctv9hd/51/in
 CCTV-9,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260302080221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=218.28.233.106&SecurityKey=20260302080221&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=650b989b4c627282bf8960d54efffbfc&sv=10004&ct=android
 CCTV-9,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260303080204&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=218.28.233.106&SecurityKey=20260303080204&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=63801d9b3218b5c1a4d10332eb3fd739&sv=10004&ct=android
 CCTV-9,https://t.freetv.fun/live/cctv9-1.php
+CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 CCTV-10,kdsvod://http://v.91kds.com/b7/hbgd.m3u8?id=cctv10hd&pwd=jsdecode
 CCTV-10,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=cctv10hd&pwd=jsdecode
 CCTV-10,rtsp://122.191.50.135/PLTV/88888888/224/3221225517/10000100000000060000000000007518_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kvRdRtVqokVkeXk3U8psVAsuTY+OgflQt4BiPWWLXbQ0ybcLSP/natFUZeRalHAgMhvmI/+aUOyzA9F/Z2JAiMB2HEYus4VibWE88qwjH9Cf/PCITiD2Rew7Db5iXv2DcSLEW9lWXt5vhVjJPtxZrIkFTbj4rCw14DRUTelHCiM=:20220106103026,1
@@ -1403,6 +1404,7 @@ CCTV-13,kdsvod://http://v.91kds.com/c7/cctvxw.m3u8?bt=2&id=cctv14hd&pwd=jsdecode
 CCTV-13,http://fjnhdb.chinashadt.com:2036/live/stream:fjds.stream/playlist.m3u8
 CCTV-13,https://lives.jnnews.tv/video/s10001-cctv/index.m3u8
 CCTV-13,http://media.hndyjyfw.gov.cn/live/jz-cctv-13/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+CCTV-13,http://play.kankanlive.com/live/1698423543275916.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-13,http://j.x.bkpcp.top/jx/CCTV13HD
@@ -1501,7 +1503,6 @@ CCTV-13,http://mgsp-zy2.live.miguvideo.com:8088/envivo_x/2018/SD/cctv13/2000/ind
 CCTV-13,https://migu.188766.xyz/?migutoken=dfa446c41e6094d412ae5202d1886a4c&id=CCTV13&type=yy
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695364351288148652.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772429160&major_anchor_level=common&sign=c3afd9cc5fd514ab3283b7ef634591f8&t_id=037-20260223132600E2615F6616C60DCE874C-eVkiIY
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695365272562303660.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772429111&major_anchor_level=common&sign=10fca6fe9e747abc153fc55ac3802b10&t_id=037-20260223132511384C2E852DE6485D4D5E-FCV5uD
-CCTV-13,http://pull-hls-f26.douyincdn.com/media/stream-695365261486195372.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69a51f8d&major_anchor_level=common&sign=00fe806b764fde7b38cb69969b504b17&t_id=037-20260223132636F024807154720635E0DC-xeIubJ
 CCTV-14,kdsvod://http://v.91kds.com/b7/hbgd.m3u8?id=cctv14hd&pwd=jsdecode
 CCTV-14,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=cctv14hd&pwd=jsdecode
 CCTV-14,rtsp://122.191.50.135/PLTV/88888888/224/3221225529/10000100000000060000000000007514_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kvRdRtVqokVkeXk3U8psVAsuTY+OgflQt4BiPWWLXbQ0ybcLSP/natFUZeRalHAgMhvmI/+aUOyzA9F/Z2JAiMB2HEYus4VibWE88qwjH9Cf/PCITiD2Rew7Db5iXv2DyiwZrg6boWh5BehaKDfpQ4kFTbj4rCw14DRUTelHCiM=:20220106103026,1
