@@ -9358,6 +9358,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 中天新闻,https://v.iill.top/tw/4gtv-4gtv009/index.m3u8
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1.php
 中天新闻,https://v.iill.top/4gtv/4gtv-4gtv009/index.m3u8
+中天新闻,https://stream1.freetv.fun/0efa038ef8b00da22a46c019893c5170b1b49731e8b26ede0655c7f76e5dbfa7.m3u8
 纬来体育,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=8d6457d1b6c00daea5b90e3c3cb2fde8
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
@@ -9488,6 +9489,8 @@ CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-5.php
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-6.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-7.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-5.m3u8
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-7.m3u8
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-1.m3u8
 CHC动作电影,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=chcdz&pwd=jsdecode
 CHC动作电影,rtsp://122.191.50.135/PLTV/88888888/224/3221226129/10000100000000060000000013054313_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kvRdRtVqokVkeXk3U8psVAsuTY+OgflQt4BiPWWLXbQ0ybcLSP/natFUZeRalHAgMhvmI/+aUOyzA9F/Z2JAiMB2HEYus4VibWE88qwjH9Cf/PCITiD2Rew7Db5iXv2DenrVT3sM7ntnaNfWKwmpHIkFTbj4rCw14DRUTelHCiM=:20220106103026,1
 CHC动作电影,kdsvod://http://v.91kds.com/b7/jsbtv1.m3u8?id=chcdz&pwd=jsdecode
@@ -9525,6 +9528,8 @@ CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-5.php
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-3.m3u8
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-6.m3u8
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-5.m3u8
+CHC动作电影,https://stream1.freetv.fun/413df533cc2d866bacdc87729814e66f4cf836c13b12ed783b54345fd012c6c8.m3u8
+CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-5.ctv
 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 淘剧场,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8
 淘剧场,http://iptv.666230.xyz/iptv/bjyd.php/6553
