@@ -1869,6 +1869,7 @@ CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-407213179642053292.m3u8?a
 CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-695663867818934956.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776906184&major_anchor_level=common&sign=35f4891c9f7e2d3f70751aeca377b278&t_id=037-202604160903034600B8EB7E1921FBEE8B-0uloPn
 CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-119249950317216428.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1777597787&major_anchor_level=common&neq=1&sign=d56e4b73a6e22f29af1bc99150197a61&t_id=037-202604240909474D5581B777A086C103FC-RTCVDP
 CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-119261188904452780.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1777770519&major_anchor_level=common&neq=1&sign=e434f2b2df272f04dbad6c1b41c5cea7&t_id=037-2026042609083945A3AF38DBC852D1D554-hL6HFR
+CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-407586649724682924.m3u8?expire=1779152803&sign=99aa28ff2267f0c59d0c71b0ef5c994a&exp_hrchy=w1&neq=1&major_anchor_level=common&arch_hrchy=w1&t_id=037-202605120906426D623928AE4920F7472A-7fbyqQ
 CETV-1,kdsvod://http://v.91kds.com/b7/hbgd.m3u8?id=cetv1&pwd=jsdecode
 CETV-1,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=cetv1hd&pwd=jsdecode
 CETV-1,http://hwylivehd.centv.cn/cetv1/ypd.m3u8
