@@ -1259,6 +1259,7 @@ CCTV-11,http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/cctv11hd265/54/202004
 CCTV-11,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cctv11hd265/54/20200407/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260301080204&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=218.28.233.106&SecurityKey=20260301080204&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=366bd490e618291e29ee55d3bf1cb0e1&sv=10004&ct=android
 CCTV-11,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cctv11hd265/54/20200407/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260302080222&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=218.28.233.106&SecurityKey=20260302080222&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=21bc476b1e9f8983a96666b05b27cce2&sv=10004&ct=android
 CCTV-11,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cctv11hd265/54/20200407/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260303080204&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=218.28.233.106&SecurityKey=20260303080204&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1628fbeabd8d58dcd428d12f1d1e2933&sv=10004&ct=android
+CCTV-11,https://t.freetv.fun/live/cctv11-3.m3u8
 CCTV-12,kdsvod://http://v.91kds.com/b7/hbgd.m3u8?id=cctv12hd&pwd=jsdecode
 CCTV-12,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=cctv12hd&pwd=jsdecode
 CCTV-12,rtsp://122.191.50.135/PLTV/88888888/224/3221225523/10000100000000060000000000007516_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kvRdRtVqokVkeXk3U8psVAsuTY+OgflQt4BiPWWLXbQ0ybcLSP/natFUZeRalHAgMhvmI/+aUOyzA9F/Z2JAiMB2HEYus4VibWE88qwjH9Cf/PCITiD2Rew7Db5iXv2DoH3uoRNAU7Jg7ji7XVL/CIkFTbj4rCw14DRUTelHCiM=:20220106103026,1
@@ -3143,6 +3144,7 @@ CETV-4,https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb422
 广西卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226830/index.m3u8
 广西卫视,http://pull-hls-f11.douyincdn.com/media/stream-695314078702240428.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771760950&major_anchor_level=common&sign=d9c21ca1151fa649e68dc18c13ac2e23&t_id=037-2026021519491078C5C8D15B8DDFD19426-OM31JH
 广西卫视,https://gd202.tv1288.xyz/tsfile/live/1028_1.m3u8
+广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-5.m3u8
 贵州卫视,kdsvod://http://v.91kds.com/b7/hbgd.m3u8?id=gzwshd&pwd=jsdecode
 贵州卫视,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=gzwshd&pwd=jsdecode
 贵州卫视,rtsp://122.191.50.135/PLTV/88888888/224/3221225759/10000100000000060000000002871048_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kvRdRtVqokVkeXk3U8psVAsuTY+OgflQt4BiPWWLXbQ0ybcLSP/natFUZeRalHAgMhvmI/+aUOyzA9F/Z2JAiMB2HEYus4VibWE88qwjH9Cf/PCITiD2Rew7Db5iXv2D72xvPq5FAUnWPjkdqYUq/YkFTbj4rCw14DRUTelHCiM=:20220106103026,1
@@ -4307,6 +4309,7 @@ CETV-4,https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb422
 四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-5.m3u8
 四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-11.php
 四川卫视,https://v.iill.top/api/scws/index.m3u8
+四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-1.m3u8
 深圳卫视,kdsvod://http://v.91kds.com/b7/hbgd.m3u8?id=szwshd&pwd=jsdecode
 深圳卫视,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=szwshd&pwd=jsdecode
 深圳卫视,rtsp://122.191.50.135/PLTV/88888888/224/3221225598/10000100000000060000000000007635_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kvRdRtVqokVkeXk3U8psVAsuTY+OgflQt4BiPWWLXbQ0ybcLSP/natFUZeRalHAgMhvmI/+aUOyzA9F/Z2JAiMB2HEYus4VibWE88qwjH9Cf/PCITiD2Rew7Db5iXv2DiyU1Eelgslz0koEpwbGWjokFTbj4rCw14DRUTelHCiM=:20220106103026,1
@@ -6842,6 +6845,7 @@ CETV-4,https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb422
 苏州生活资讯,rtmp://36.137.190.15:1935/live/c04
 苏州生活资讯,https://stream1.freetv.fun/su-zhou-sheng-huo-zi-xun-1.m3u8
 苏州生活资讯,https://t.freetv.fun/live/su-zhou-sheng-huo-zi-xun.m3u8
+苏州社会经济,http://36.137.190.15:5021/live_hls/2/playlist.m3u8
 苏州社会经济,rtmp://36.137.190.15:1935/live/c02
 苏州社会经济,https://stream1.freetv.fun/su-zhou-she-hui-jing-ji-2.m3u8
 苏州社会经济,https://t.freetv.fun/live/su-zhou-she-hui-jing-ji.m3u8
