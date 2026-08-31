@@ -7050,6 +7050,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-13.m3u8
 新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-2.m3u8
 新闻综合,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
+新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-3.m3u8
 欢笑剧场,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=hxjchd&pwd=jsdecode
 欢笑剧场,htmlplay://https://m.miguvideo.com/m/liveDetail/790187880?channelId=10010001005
 欢笑剧场,https://hlsbkmgsplive.miguvideo.com/migu/kailu/hxjchd/57/20230411/01.m3u8?&HlsSubType=&encrypt=
