@@ -10849,6 +10849,7 @@ Viutv,http://smt.1678520.xyz/smt3.2.3.php?id=viu1_twn
 靖天资讯,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv065&token=https://t.me/GPT_858
 靖天资讯,https://t.freetv.fun/live/jing-tian-zi-xun.m3u8
 靖天资讯,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1782639885837
+靖天资讯,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1784702901150
 
 电影频道,#genre#
 CHC家庭影院,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=chcjt&pwd=jsdecode
@@ -11061,6 +11062,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-1.m3u8
 靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju.m3u8
 靖天戏剧,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837
+靖天戏剧,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1784702901150
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
 经典电影,https://tv.iill.top/4gtv/201
