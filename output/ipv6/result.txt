@@ -2550,6 +2550,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 第一剧场,https://7612-5516-affc-d88b.kylintv.tv/live/chinamovie_iphone.m3u8
 第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/index.m3u8
 第一剧场,http://ott.mobaibox.com/PLTV/4/224/3221228659/index.m3u8
+第一剧场,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/dyjc
 风云剧场,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=fyjc&pwd=jsdecode
 风云剧场,kdsvod://http://v.91kds.com/b7/jsbtv1.m3u8?id=fyjc&pwd=jsdecode
 风云剧场,https://hls-gateway.vpstv.net/streams/708861.m3u8
@@ -2557,6 +2558,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 风云剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073
 风云剧场,https://gd202.tv1288.xyz/tsfile/live/1049_1.m3u8
 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/index.m3u8
+风云剧场,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/fyjc
 怀旧剧场,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=hjjc&pwd=jsdecode
 怀旧剧场,rtsp://122.191.50.135/PLTV/88888888/224/3221226150/10000100000000060000000013243116_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kvRdRtVqokVkeXk3U8psVAsuTY+OgflQt4BiPWWLXbQ0ybcLSP/natFUZeRalHAgMhvmI/+aUOyzA9F/Z2JAiMB2HEYus4VibWE88qwjH9Cf/PCITiD2Rew7Db5iXv2DRf0tR0JVFXMNAzHqKg5G6IkFTbj4rCw14DRUTelHCiM=:20220106103026,1
 怀旧剧场,kdsvod://http://v.91kds.com/b7/jsbtv1.m3u8?id=hjjc&pwd=jsdecode
@@ -2566,6 +2568,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 怀旧剧场,https://gd202.tv1288.xyz/tsfile/live/1048_1.m3u8
 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/index.m3u8
 怀旧剧场,http://ott.mobaibox.com/PLTV/4/224/3221228671/index.m3u8
+怀旧剧场,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/hjjc
 女性时尚,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=nxss&pwd=jsdecode
 女性时尚,kdsvod://http://v.91kds.com/b7/jsbtv1.m3u8?id=nxss&pwd=jsdecode
 女性时尚,http://iptv.666230.xyz/iptv/jsyd.php/G_NVXINGSS-CQ
@@ -7414,6 +7417,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 宜兴新闻,http://gslbmgsplive.miguvideo.com/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=1b3249717ed6c64510a26c17e3332590&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260805062056&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=39.103.182.111&SecurityKey=20260805062056&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=cceb910e93ded993cd2e5e75a1e7d1e1&ddCalcu=1cecv1eadbl79ae110ae5973ed5eed29d9c3&sv=10004&ct=android
 宜兴新闻,https://live.chinacert.cftest5.cn/cnmg/live/955227996
 宜兴新闻,https://t.freetv.fun/live/yi-xing-xin-wen-zong-he-1.m3u8
+宜兴新闻,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/migu.js/955227996
 宿迁公共,http://iptv.666230.xyz/iptv/jsyd.php/G_SQGG
 常州公共,kdsvod://http://v.91kds.com/b7/jscztv.m3u8?id=jscztv4&pwd=jsdecode
 常州公共,http://iptv.666230.xyz/iptv/jsyd.php/jsczgonggong
