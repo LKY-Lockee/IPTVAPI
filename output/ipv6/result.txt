@@ -2559,6 +2559,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 风云剧场,https://gd202.tv1288.xyz/tsfile/live/1049_1.m3u8
 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/index.m3u8
 风云剧场,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/fyjc
+风云剧场,https://yshipin.pages.dev/play/cctvfyjc
 怀旧剧场,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=hjjc&pwd=jsdecode
 怀旧剧场,rtsp://122.191.50.135/PLTV/88888888/224/3221226150/10000100000000060000000013243116_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kvRdRtVqokVkeXk3U8psVAsuTY+OgflQt4BiPWWLXbQ0ybcLSP/natFUZeRalHAgMhvmI/+aUOyzA9F/Z2JAiMB2HEYus4VibWE88qwjH9Cf/PCITiD2Rew7Db5iXv2DRf0tR0JVFXMNAzHqKg5G6IkFTbj4rCw14DRUTelHCiM=:20220106103026,1
 怀旧剧场,kdsvod://http://v.91kds.com/b7/jsbtv1.m3u8?id=hjjc&pwd=jsdecode
@@ -2569,6 +2570,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/index.m3u8
 怀旧剧场,http://ott.mobaibox.com/PLTV/4/224/3221228671/index.m3u8
 怀旧剧场,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/hjjc
+怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 女性时尚,kdsvod://http://v.91kds.com/b7/jsbtv2.m3u8?id=nxss&pwd=jsdecode
 女性时尚,kdsvod://http://v.91kds.com/b7/jsbtv1.m3u8?id=nxss&pwd=jsdecode
 女性时尚,http://iptv.666230.xyz/iptv/jsyd.php/G_NVXINGSS-CQ
