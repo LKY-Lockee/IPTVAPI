@@ -8565,6 +8565,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 四川频道,#genre#
 乐山新闻综合,kdsvod://http://v.91kds.com/b7/scy.m3u8?id=sclstv1&pwd=jsdecode
 乐山新闻综合,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
+乐山新闻综合,http://pwpull.leshan.cn/live/21609091019110008654ed1a00000000/playlist.m3u8
 乐山新闻综合,https://stream1.freetv.fun/le-shan-xin-wen-zong-he-1.m3u8
 乐山新闻综合,https://stream1.freetv.fun/le-shan-xin-wen-zong-he-2.m3u8
 九寨沟新闻综合,kdsvod://http://v.91kds.com/b7/scy.m3u8?id=scabjzg1&pwd=jsdecode
